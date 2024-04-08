@@ -1,6 +1,8 @@
 # HorrorPack
 
-HorrorPack is a modpack compiled by myself that has corruption and horror as a central basis. There are two key mods that play a central role in this.
+HorrorPack is a modpack compiled by myself that has corruption and horror as a central basis. The modpack runs on Forge 1.20.1, and is currently hosted on a server hosted by myself for playertesting. 
+
+There are two key mods that play a central role in this.
 
 1. The Man in the Fog (Adds a demon that deals high damage at random intervals)
 2. Fight or Die (Adds corrupted entites that each have special effects and cause difficulties)
