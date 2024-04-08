@@ -14,6 +14,7 @@ This modpack will be expanded slowly to balance out player and adversarial inter
 - 4/6/2024: Initial Commit of Modpacks. Mods include Bonfires, Epic Fight, The Man from the Fog, Epic Knights (EF addon), Epic Knights Japanese Armor (EF addon), architectury (dependency), cloth-config (dependency), Fight or Die, geckolib (dependency), Realm Miner.
 - 4/7/2024: Added Mods for QOL and slight balance readjustment in favor of the playergroup. Additions include: JADE, Patchouli (dependency), Ars Nouveau, Corpse, Curios (dependency), JEI.
 
+
 ### Planned Changes
 
 The following mods are planned to be added to the modpack. Each mod will also have an estimated date in which it will be added to the modpack, as well as a reason.
@@ -25,6 +26,7 @@ The following mods are planned to be added to the modpack. Each mod will also ha
 - Xaero's Minimap (4/8/24): Aims to provide QoL via minimap.
 
 Additionally, more biomes and other world generation/exploration mods are under survey for addition into the modpack. 
+
 
 ### Balancing Rationalization
 
