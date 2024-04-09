@@ -1,13 +1,13 @@
 # HorrorPack
 
-HorrorPack is a modpack compiled by myself that has corruption and horror as a central basis. The modpack runs on Forge 1.20.1, and is currently hosted on a server hosted by myself for playertesting. 
+HorrorPack is a modpack compiled by myself that has corruption and horror as a central basis. The modpack runs on Forge 1.20.1, and is currently hosted on a server hosted by myself for playertesting.
 
 There are two key mods that play a central role in this.
 
 1. The Man in the Fog (Adds a demon that deals high damage at random intervals)
 2. Fight or Die (Adds corrupted entites that each have special effects and cause difficulties)
 
-This modpack will be expanded slowly to balance out player and adversarial interactions. 
+This modpack will be expanded slowly to balance out player and adversarial interactions.
 
 ### Modpack Changes
 
@@ -15,15 +15,22 @@ This modpack will be expanded slowly to balance out player and adversarial inter
 - 4/7/2024: Added Mods for QOL and slight balance readjustment in favor of the playergroup. Additions include: JADE, Patchouli (dependency), Ars Nouveau, Corpse, Curios (dependency), JEI.
 - 4/8/2024: Added Mods for better balancing playerbase against FoD: Xaero's Minimap, BlockUI (dependency), Clockwork (dependency), Create, Domum Ornamentum (dependency), Eureka Ships, Kotlin (dependency), Mine Colonies, Multipistion (dependency), Structurize (dependency), Valkyrien Skies
 
-
 ### Planned Changes
 
 The following mods are planned to be added to the modpack. Each mod will also have an estimated date in which it will be added to the modpack, as well as a reason.
 
+- Strayed Fates: Forsaken (4/9/24): Adds unique building generation.
+- Yung's Extras (4/9/24): Adds small building generation
+- Yung's Better Dungeons (4/9/24): Adds unique dungeon generation and mechanics
+- Yung's Bridges (4/9/24): Adds bridge generation
+- AdoraBuild: Structures (4/9/24): Adds 85 new structures to overworld generation for exploration enhancement
+- River Redux (4/9/24): Adds new river generation mechanics
+- Villages & Pillages (4/9/24): Adds evil villages :)
+- Medieval Buildings (4/9/24): Adds new medieval building generation
+- Create Cannons (4/9/24): Adds multiblock cannons compatible with Create.
 - Towns & Towers (TBD): This addition aims to spice up overworld surface exploration, as currently there is not a large incentive to explore.
 
-Additionally, more biomes and other world generation/exploration mods are under survey for addition into the modpack. 
-
+Additionally, more biomes and other world generation/exploration mods are under survey for addition into the modpack.
 
 ### Balancing Rationalization
 
