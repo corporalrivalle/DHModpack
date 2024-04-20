@@ -12,17 +12,33 @@ The modpack currently includes the following mods:
   - Epic Knights
   - Epic Knights Japanese Armory
 - Create
-  - Create Armory
+  - Create: Big Cannons
 - MineColonies
-- ValkyrienSkies
-  - Multipiston
+  - Dependencies:
+	- Structurize
+	- Multi-Piston
+	- BlockUI
+	- Domum Ornamentum
+- Valkyrien Skies
   - Clockwork
-  - Eureka
+  - Create: Interactive
   - Trackwork (To Be Added)
-- Fight or Die
+  - Dependencies:
+	- Architectury
+	- Cloth Config
+	- Kotlin For Forge
+	- Patchouli
+- Terrain Generation
+  - River Redux
+	- Dependency: TerraBlender
 - Various QoL Mods
-  - JADE
+  - Jade
   - JEI
   - Xaero's Minimap
+  - Xaero's World Map
+  - Embeddium
+  - Ferritecore
+  - Curios
+  - Corpse
 
 These mods were selected to give players a difficult start, and difficulties surviving alone, requiring the development of a mine colony and its accompanying military strength. Leveraging their colony as an industrial base, players can then move onto create to industrialize and develop better and higher level economies.
