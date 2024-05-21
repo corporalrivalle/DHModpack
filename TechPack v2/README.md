@@ -15,3 +15,5 @@ Create: New Age
 Applied Energistics 2
 
 Create: Crafts and Extra Additions (Converting SU to FE) (Possibly redudant, need to check New Age to see if Electricity is FE)
+
+Somnia Awoken
